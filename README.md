@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="https://emilydelacruz.com" target="_blank"><img src="https://emilydelacruz.com/files/connection.png" alt="atom graphic" width="150"></a>
+    <a href="https://emilydelacruz.com" target="_blank"><img src="https://emilydelacruz.com/files/connection.png" alt="atom graphic" width="80"></a>
     <br>
     Codex Vitae
 </h1>
@@ -24,7 +24,7 @@ I have multiple Notes in my Evernote that reference things that have inspired me
 
 I'm using the bones of his project to start my own codex vitae.
 
-I started this project on April 10th, 2020. It’s here to keep track of who I think I am, and how that changes over time. I've always loved patterns and making connections. This project will hopefully be a fun exercise in such. As with Buster's project, I'd also like this to be an invitiation for others to spark conversations with me about anything they find interesting and to also help keep me accountable.
+I started this project on April 10th, 2020. It’s here to keep track of who I think I am, and how that changes over time. I've always loved patterns and finding connections. This project will hopefully be a fun exercise in such. As with Buster's project, I'd also like this to be an invitiation for others to spark conversations with me about anything they find interesting and to also help keep me accountable.
 
 Overall, I'm pretty internal. I wanted to externalize some of the rumblings in my brain.
 
@@ -42,4 +42,4 @@ Badges in this README.md provided by [shields.io](https://shields.io/#your-badge
 
 - [History of all changes]()
 
-Anicca.
+_Anicca._
