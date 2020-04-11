@@ -1,8 +1,10 @@
 # Influences
 
-Pieces and experiences that have profoundly impacted me and to which I come back often.
+Pieces and experiences that really impacted me and to which I come back often.
 
 ## Articles
+
+- [David Haskell Speaks for the Trees](https://www.outsideonline.com/2167116/david-haskell-speaks-trees) - Paul Kvinta
 
 ## Books
 
@@ -18,11 +20,20 @@ Pieces and experiences that have profoundly impacted me and to which I come back
 - Driving the Ring Road in Iceland
 - First solo trip to Chicago
 
+## Films
+
+- [Another Earth](https://www.imdb.com/title/tt1549572/)
+- [Arrival](https://www.imdb.com/title/tt2543164/)
+- [I Origins](https://www.imdb.com/title/tt2884206/)
+
 ## Magazines
 
 - [Offscreen](https://www.offscreenmag.com/)
 
 ## Music
+
+- [On the Nature of Daylight](https://www.youtube.com/watch?v=tUMc_-Bcunk) - Max Richter
+- [Small Memory](https://www.youtube.com/watch?v=0cVTciqYuPY) - Jon Hopkins
 
 ## Podcasts
 
@@ -30,6 +41,8 @@ Pieces and experiences that have profoundly impacted me and to which I come back
 - [Heroine](https://majomolfino.com/podcast)
 - [On Being](https://onbeing.org/series/podcast/)
 - [Song Exploder](http://songexploder.net/)
+
+## TV Shows
 
 ## Websites
 
