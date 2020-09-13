@@ -20,7 +20,7 @@ Author: Emily Dela Cruz
 
 _**What is this document? Why does it exist?**_
 
-I have multiple Notes in my Evernote that reference things that have inspired me. They were scattered about, but I liked the idea of somewhat consolidating them. Fast forward to the COVID-19 pandemic of 2020, I'm searching the internet for examples of self-reviews and I came across [Buster Benson's blog post about and his personal 'codex vitae'](https://busterbenson.com/blog/2012/11-28-codex-vitae/) and his [public repo](https://github.com/busterbenson/public).
+I have multiple Notes in my Evernote that reference things that have inspired me. They were scattered about, but I liked the idea of somewhat consolidating them. Fast forward to the COVID-19 pandemic of 2020, I'm searching the internet for examples of self-reviews and I come across [Buster Benson's blog post about and his personal 'codex vitae'](https://busterbenson.com/blog/2012/11-28-codex-vitae/) and his [public repo](https://github.com/busterbenson/public).
 
 I'm using the bones of his project to start my own codex vitae.
 

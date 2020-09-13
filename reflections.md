@@ -16,6 +16,7 @@ _In alphabetical order_
 
 - [A call for more mindful second glances](https://emilydelacruz.com/writing/a-call-for-more-mindful-second-glances): I delved into the world of fast fashion.
 
-## Yearly reports
+## Yearly Mottos
 
-- 28: [Forced to slow down](https://emilydelacruz.com) \(2020\)
+- 28: [Surrender](https://emilydelacruz.com/records/29-deliberate)
+- 29: [Sincere Deliberateness](https://emilydelacruz.com/records/29-deliberate)

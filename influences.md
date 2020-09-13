@@ -13,6 +13,7 @@ Pieces and experiences that really impacted me and to which I come back often.
 - [Letters to a Young Poet](https://www.goodreads.com/book/show/9688875-letters-to-a-young-poet) - Ranier Maria Rilke
 - [Ongoingness](http://www.sarahmanguso.com/ongoingness) - Sarah Manguso
 - [Sum: 40 Tales From The Afterlives](https://www.goodreads.com/book/show/6310840-sum) - David Eagleman
+- [Thinking in Systems](https://www.chelseagreen.com/product/thinking-in-systems/) - Donella H. Meadows
 
 ## Experiences
 
